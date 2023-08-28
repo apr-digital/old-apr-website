@@ -1,0 +1,2 @@
+export CATALINA_OPTS="-XX:MaxMetaspaceSize=256m -XX:NewRatio=1 -XX:+UseStringCache -XX:+OptimizeStringConcat -XX:NativeMemoryTracking=summary -XX:+UnlockDiagnosticVMOptions -XX:-ResizePLAB -XX:+DebugNonSafepoints -XX:-UseAdaptiveSizePolicy -XX:+UseStringDeduplication -XX:+UnlockCommercialFeatures -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=/home/govind/dev/aprmarathon/jakarta-tomcat/logs/tomcatheap.hprof -Xms512M -Xmx2048M"
+export USE_NOHUP=true

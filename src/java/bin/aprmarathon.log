@@ -1,0 +1,22 @@
+Oct 29, 2022 7:40:18 AM core.util.DebugHandler info - INFO:   spreadsheetId: 1I1nR1tkdEp976nYlqFqRIwRgx9MrJeT6vM2Oupl8KMQ
+registrantsRange: AllRegistrants!A:AF
+participantsRange: AllParticipants!A:AF
+eventsId: 4
+
+Oct 29, 2022 7:40:19 AM core.util.DebugHandler info - INFO:   ExportToSheetsCLI : updateRegistrants : Here registrant_event_id : 0
+registrant_id : 0
+registrant_event : 4
+registrant_type : 0
+registrant_source : 0
+registrant_class : 0
+registrant_beneficiary : 0
+registrant_emergency_contact : 
+registrant_emergency_phone : 
+
+Oct 29, 2022 7:40:19 AM core.util.DebugHandler info - INFO:   app.busimpl.RegistrantEventImpl : getAllRegistrantEvents : Getting registrantevent from database
+Oct 29, 2022 7:40:19 AM core.util.DebugHandler info - INFO:   core.db.SQLStatement : getConnection : Switching to application connection pool
+Oct 29, 2022 7:40:19 AM core.util.DebugHandler info - INFO:   core.db.SQLStatement : getConnection : Switching to application connection pool
+Oct 29, 2022 7:40:19 AM core.util.DebugHandler info - INFO:   ExportToSheetsCLI : updateRegistrants : Here 1[]
+Oct 29, 2022 7:40:21 AM core.util.DebugHandler info - INFO:   app.busimpl.ParticipantEventImpl : getAllParticipantEvents : Getting participantevent from database
+Oct 29, 2022 7:40:21 AM core.util.DebugHandler info - INFO:   core.db.SQLStatement : getConnection : Switching to application connection pool
+Oct 29, 2022 7:40:21 AM core.util.DebugHandler info - INFO:   core.db.SQLStatement : getConnection : Switching to application connection pool
